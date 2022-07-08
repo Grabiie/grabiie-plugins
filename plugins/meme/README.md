@@ -1,3 +1,0 @@
-#a Plugins
-
-laugh plugin

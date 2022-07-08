@@ -1,3 +1,0 @@
-# Plugins meme
-
-laugh plugin
