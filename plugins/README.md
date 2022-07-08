@@ -1,4 +1,3 @@
-# Categories
+# Categorias
 
-## Plugins memes
-
+## Plugins em processo de construção
